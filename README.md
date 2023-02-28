@@ -20,3 +20,8 @@ this repo serves the purpose of being my little quick reference doc.
 
 * ### smart-lottery  
     this project was about understanding a bit more some utility functions that developers can use and implement. given a rather easy project, the focus was all about how the blockchain works and what instrument or workarounds it gives me in order to achieve my goal.
+
+<br/>
+
+* ### vendingmachine  
+    this project focused on understanding how truffle works. after implementing a simple vending machine contract for selling virtual donuts at 2 EtH each, truffle was used for running the test scripts and understand how the deploy script worked both on a test-net ( ganache ) and on the main-net.
