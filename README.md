@@ -19,7 +19,7 @@ this repo serves the purpose of being my little quick reference doc.
 
 
 * ### erc20_token  
-    ### erc20_token-faucet  
+* ### erc20_token-faucet  
     this two projects were all about understanding how tokens work. the first one was about implementing a smart contract that would deploy and let people send and receive their erc20 tokens, while the other was about implementing a faucet in order to understand how different contracts interact with each other.  
     [token smart contract](https://github.com/DeltaNicola/web3-dApps/blob/main/erc20_token/contracts/DeltaToken.sol)  
     [faucet smart contract](https://github.com/DeltaNicola/web3-dApps/blob/main/erc20_token-faucet/contracts/Faucet.sol)  
