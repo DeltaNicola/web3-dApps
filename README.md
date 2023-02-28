@@ -2,7 +2,6 @@
 
 this repo is a collection on my journey in the web3 world.  
 here you can find any project i've built following along with tutorials found on youtube.  
-inside each folder you will find a brief summary of the projects, the tech stach i've used and what i learnt from each one of them.  
 this repo serves the purpose of being my little quick reference doc.
 
 ## repo-index
