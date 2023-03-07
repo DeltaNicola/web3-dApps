@@ -51,7 +51,7 @@ quick links to the SmartContract.sol files.
      
 
 #
-## technology used
+## technologies used
 * ### programming
     * solidity  
     * react
