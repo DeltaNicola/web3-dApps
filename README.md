@@ -17,6 +17,7 @@ quick links to the SmartContract.sol files.
 * [crowd-funding](https://github.com/DeltaNicola/web3-dApps/blob/main/crowd-funding/web3/contracts/CrowdFunding.sol) 
 * [erc20_token](https://github.com/DeltaNicola/web3-dApps/blob/main/erc20_token/contracts/DeltaToken.sol)  
 * [erc20_token-faucet](https://github.com/DeltaNicola/web3-dApps/blob/main/erc20_token-faucet/contracts/Faucet.sol) 
+* [erc721a_nft-collection](https://github.com/DeltaNicola/web3-dApps/blob/main/erc721a_nft-collection/contracts/NFTCollection.sol)
 * [nft-evolving](https://github.com/DeltaNicola/web3-dApps/blob/main/nft-evolving/evolving-nfts/src/EvolvingNFT.sol)
 * [smart-lottery](https://github.com/DeltaNicola/web3-dApps/blob/main/smart-lottery/contracts/Lottery.sol)  
 * [vending-machine](https://github.com/DeltaNicola/web3-dApps/blob/main/vending-machine/contracts/VendingMachine.sol) 
@@ -33,8 +34,12 @@ quick links to the SmartContract.sol files.
     this two projects were all about understanding how tokens work. the first one was about implementing a smart contract that would deploy and let people send and receive their erc20 tokens, while the other was about implementing a faucet in order to understand how different contracts interact with each other.  
      
 
+* ### erc721a_nft-collection
+    this project was about understanding how nfts work. by developing a basic gallery using erc721a-base contract as a template, the focus was put around roles and how the implemented contracts can help save time by overriding functions and adding custom behaviours like roles restrictions.
+
+
 * ### nft-evolving
-    this project was about understanding how lazy-mint works. it revolved around implement a basic ERC1155 smart contract for nfts and were implemented two functions: the first was to claim one of the nfts, while the other was about burning the first two in order to get an "evolved" one. basically pokemon, but with nfts. the functions were then implemented in a very basic ui developed in next.js  
+    this project was about understanding how lazy-mint works. it revolved around implement a basic ERC1155 smart contract for nfts and were implemented two functions: the first was to claim one of the nfts, while the other was about burning the first two in order to get an "evolved" one. basically pokemon, but with nfts. 
     
 
 * ### smart-lottery  
@@ -57,6 +62,7 @@ quick links to the SmartContract.sol files.
     * thirdweb
     * hardhat
     * truffle
+    * forge
 
 
 * ### test net
@@ -73,7 +79,6 @@ quick links to the SmartContract.sol files.
     * what are smart contracts
     * how to develop a smart contract
     * how to deploy a smart contract on a testnet
-    
 
 
 * ### understanding of how to use a smart contract  
@@ -84,6 +89,7 @@ quick links to the SmartContract.sol files.
 
 * ### understanding on how to develop a smart contract
     * ERC20 tokens
+    * ERC721 nfts
     * ERC1155 nfts
     * minting strategies
 
